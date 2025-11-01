@@ -1,0 +1,12 @@
+{
+  "name": "event-discovery-api",
+  "version": "1.0.0",
+  "description": "API serverless functions for Vercel",
+  "main": "events.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "zod": "^4.1.12"
+  }
+}
+

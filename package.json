@@ -1,0 +1,22 @@
+{
+  "name": "event-discovery-app",
+  "version": "1.0.0",
+  "description": "A production-ready, full-stack event discovery application with modern design, smooth animations, and advanced features.",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "start": "cd backend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1116mp/event-discovery-app.git"
+  },
+  "keywords": ["events", "discovery", "react", "vite", "tailwind"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1116mp/event-discovery-app/issues"
+  },
+  "homepage": "https://github.com/1116mp/event-discovery-app#readme"
+}
